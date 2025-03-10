@@ -20,10 +20,9 @@ We offer support in the following areas:
 
 - **🔀 Version Control**
   - Guidance on using Git and GitHub for version control, including resolving common issues.
-  - Support for deploying applications using platforms like Streamlit and Docker.
 
 - **⚙️ System Performance & Network Connectivity**
-  - Assistance with hardware-related issues, including GPU and RAM concerns.
+  - Assistance with hardware-related issues, including GPU concerns.
   - Troubleshooting network-related problems affecting software installations or remote access.
 
 > **🚫 Note:** We do not provide assistance with homework or direct assignment solutions. Our goal is to help you overcome technical obstacles and enhance your problem-solving skills.

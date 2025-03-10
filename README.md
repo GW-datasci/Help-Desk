@@ -48,20 +48,21 @@ To seek assistance, please follow these steps to create an issue in our GitHub r
 
    *![Initiating a New Issue](images/new_issue_button.png)*
 
-4. **Provide a Descriptive Title**
-   - Enter a concise title summarizing your issue.
+4. **Add a Clear Title and Detailed Description**
+   - In the **Title** field, enter a concise summary of your issue using the format:  
+     `[Course Code and Title] - [Error Title]`  
+     *Example: `DATS 6101 - Python: Unable to import pandas after installation`*
 
-   *![Providing a Descriptive Title](images/issue_title.png)*
-
-5. **Describe the Issue**
-   - In the description box, provide detailed information about the problem, including:
-     - Steps to reproduce the issue.
+   - In the **Description** field, provide detailed information about the issue, including:
+     - Steps to reproduce the problem.
      - Any error messages received.
+     - Your operating system, tools used, and environment setup.
      - Screenshots, if applicable.
 
-   *![Describing the Issue](images/issue_description.png)*
+   *![Providing a Descriptive Title](images/issue_title_and_description.png)*
 
-6. **Submit the Issue**
+
+5. **Submit the Issue**
    - Click 'Submit new issue' to post your query.
 
    *![Submitting the Issue](images/submit_issue.png)*

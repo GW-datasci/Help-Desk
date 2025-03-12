@@ -73,37 +73,11 @@ Once you submit an issue, our technical specialists will promptly review it and 
 
 ---
 
-## 📋 Current Tasks (From Tyler)
-
-We are currently working on the following updates:
-
-- ✂️ **Crop all images** in the `README.md` to show only the relevant portions.
-- 🧾 **Create a new `README.md`** outlining the **Discussions Workflow**.
-- 📅 **Set up a Google Calendar** to schedule Help Desk appointments.
-
----
-
 ## 📆 Schedule a Help Desk Appointment
+[![Book an Appointment](https://img.shields.io/badge/Book%20an%20Appointment-📅-brightgreen)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2qbt2FbisDbjDDM4i5r4-TXOq4A8zno_adRru7p-jn2ElVFES5T2QLReeEwmWhrrj88ib3hLt7?gv=true)
 
-Need live support? Book a 1-on-1 session with the Help Desk using the button below:
 
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2qbt2FbisDbjDDM4i5r4-TXOq4A8zno_adRru7p-jn2ElVFES5T2QLReeEwmWhrrj88ib3hLt7?gv=true',
-      color: '#039BE5',
-      label: 'Book an appointment',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
+
 
 ---
 
